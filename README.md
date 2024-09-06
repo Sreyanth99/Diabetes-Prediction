@@ -6,13 +6,14 @@ The three models are:
 3) [Naïve Bayes](#naïve-bayes)
 
    
-And finally, a [comparison of the three models](#comparing-the-models) 
+And finally, a [comparison of the three models](#comparing-the-models)
+
 This dataset consists of multiple feature variables and one target variable, ie. Outcome
 
 ![image](https://github.com/user-attachments/assets/4ed55925-2930-40b5-9dfe-74fa70fb2534)
 
-For the purpose of training the model, we dropped the outcome column\ 
-Perform a train-test split with the size of 0.2 for the train set
+For the purpose of training the model, we dropped the outcome column. \
+Perform the train-test split with the size of 0.2 for the train set
 
 # Decision Tree
 A decision tree builds models in a tree structure. It splits down a data set into smaller and
